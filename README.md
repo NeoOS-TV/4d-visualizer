@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/NeoOS-TV/4d-visualizer/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/NeoOS-TV/4d-visualizer/actions/workflows/pages/pages-build-deployment)
+
 # 🌌 4D Visualizer — Tesseract
 
 Eine interaktive Webanwendung zur Visualisierung vierdimensionaler Polytope in Echtzeit. Erkunde Tesseract (Hyperwürfel), 16-Zelle und 24-Zelle mit intuitiven Steuerungen für Desktop und Mobile.
